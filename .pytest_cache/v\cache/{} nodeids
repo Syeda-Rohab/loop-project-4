@@ -1,0 +1,5 @@
+[
+  "test_calculator.py::test_add",
+  "test_calculator.py::test_factorial",
+  test_calculator.py::test_is_palindrome"
+]
